@@ -1,0 +1,5 @@
+﻿  lab 2.cpp
+e:\учеба\2 course\алгоритмы\лабы\lab 2\lab 2\lab 2.cpp(139): warning C4018: '<': signed/unsigned mismatch
+e:\учеба\2 course\алгоритмы\лабы\lab 2\lab 2\lab 2.cpp(185): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  lab 2.vcxproj -> E:\Учеба\2 course\Алгоритмы\Лабы\lab 2\Debug\lab 2.exe
+  lab 2.vcxproj -> E:\Учеба\2 course\Алгоритмы\Лабы\lab 2\Debug\lab 2.pdb (Full PDB)
